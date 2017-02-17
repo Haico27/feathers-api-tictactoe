@@ -1,0 +1,12 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mongodb": "mongodb://localhost:27017/feathersApiTictactoe",
+  "public": "../public/",
+  "auth": {
+    "token": {
+      "secret": "G83B5lqLClZQeIiPDHB2HpveihtLZb3q2uTxnW03bYXXRWURZhdXYPhfmLDTqnB8gZzjIyMO434EuzS3WimdOw=="
+    },
+    "local": {}
+  }
+}
